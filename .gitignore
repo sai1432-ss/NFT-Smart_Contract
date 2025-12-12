@@ -1,0 +1,18 @@
+# Node dependencies
+node_modules
+package-lock.json
+
+# Hardhat files
+artifacts
+cache
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Environment variables (Safety first!)
+.env
+
+# System junk
+.DS_Store
+Thumbs.db
